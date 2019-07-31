@@ -1,3 +1,3 @@
 FROM triumfmlutils/baseml:v0.3.1
 
-RUN pip install ??? !!! ??? 
+RUN pip install dgl
